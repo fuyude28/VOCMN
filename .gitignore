@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Reproducible outputs are generated locally and are not part of the minimal source release.
+results/
+*.log
+*.err
+*.parquet
+
+# Local environments and editor metadata.
+.venv/
+venv/
+env/
+.idea/
+.vscode/
